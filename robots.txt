@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.gaplay.xyz/sitemap.xml
+Sitemap: https://gaplay.xyz/sitemap.xml
