@@ -1,0 +1,14 @@
+{
+    "spritemap": {
+        "click": {
+            "start": 1.26,
+            "end": 1.42,
+            "loop": false
+        },
+        "piece":{
+            "start": 0.53,
+            "end": 0.65,
+            "loop": false
+        }
+    }
+}
